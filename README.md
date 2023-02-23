@@ -1,7 +1,7 @@
 # image_scraping_python_project
 Image scraping using Python &amp; Flask
 
-In this Project, I have done Image scrapping in python (using flask).
+In this Project, I have done Image scraping in python (using flask).
 
 Image scraping is a subset of the web scraping technology. While web scraping deals with all forms of web data extraction, image scraping only focuses on the media side – images, videos, audio, and so on.
 
